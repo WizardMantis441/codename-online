@@ -1,5 +1,2 @@
-# codename-online
-Online Github Shit
-
-
-gonna put template shit here later
+# Codename Online
+An online GitHub repository, where you can submit codename engine mods!
