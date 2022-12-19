@@ -1,8 +1,8 @@
 # Codename Online
 An online GitHub repository, where you can submit codename engine mods!
 
-# Info.xml Template
-Place an XML file named `info.xml` into your mod folder, placed at the BASE of the folder.
+# Template
+Place an JSON file named `info.json` into your mod folder, placed at the BASE of the folder.
 ```json
 {
     "name" : "Codename Engine Browser",
