@@ -1,4 +1,4 @@
-# Codename Online
+# Codename Engine ONLINE
 An online GitHub repository, where you can submit codename engine mods!
 
 # Template
