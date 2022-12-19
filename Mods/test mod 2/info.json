@@ -1,0 +1,17 @@
+{
+    "name" : "Mod Name 2 ",
+    "desc" : "Mod Description 2 ",
+    "modVer" : "v2.0.1",
+    "engineVer" : "v0.0.5",
+    "credits" : [
+        {
+            "name" : "WizardMantis",
+            "link" : "https://twitter.com/wizardmantis441",
+            "role" : "Made this concept. (again)"
+        }, {
+            "name" : "Yoshi",
+            "link" : "https://twitter.com/YoshiCrafter29",
+            "role" : "who is the person lmao?"
+        }
+    ]
+}
