@@ -6,7 +6,7 @@ Place an XML file named `info.xml` into your mod folder, placed at the BASE of t
 ```json
 {
     "name" : "Codename Engine Browser",
-    "desc" : "Mod Description",
+    "desc" : "A smaller and simpler Gamebanana.",
     "modVer" : "v1.0.0",
     "engineVer" : "v0.0.1",
     "credits" : [
